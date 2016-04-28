@@ -18,7 +18,7 @@
   <string name="allow">Permitir</string>
   <string name="app_label">Páginas amarillas</string>
   <string name="app_recommendation_install">Instalar</string>
-  <string name="average_price">Promedio de %d RMB</string>
+  <string name="average_price">Promedio de %d EUR</string>
   <string name="back">Atrás</string>
   <string name="balance_inquiry_send_sms_fail_hint">"No se pudo enviar el SMS"</string>
   <string name="balance_inquiry_send_sms_hint">Se enviará un SMS a su proveedor de telefonía para revisar su saldo.</string>
@@ -46,7 +46,7 @@
   <string name="contact_detail_calllog_call_record_tips">Grabación de la llamada</string>
   <string name="content_desc_send_sms">Enviar SMS</string>
   <string name="coupon_bought_count">%d comprada</string>
-  <string name="currency_character">RMB</string>
+  <string name="currency_character">EUR</string>
   <string name="custom_mark_category">Personalizado</string>
   <string name="data_error">Se ha producido un error</string>
   <string name="data_error_show">Se ha producido un error</string>
@@ -227,7 +227,7 @@
   <string name="menu_remove_from_favorite">Eliminar de favoritos</string>
   <string name="menu_save_contact">Guardar número de contacto</string>
   <string name="menu_unfollow_yellow_page">No seguir</string>
-  <string name="minimum_price">De %d RMB</string>
+  <string name="minimum_price">De %d EUR</string>
   <string name="mishop_web_payment_title">Comprobar Mi Store</string>
   <string name="more_coupons">Todos los cupones</string>
   <string name="navigation_search_all_cities">Todas las ciudades</string>
@@ -237,7 +237,7 @@
   <string name="navigation_search_no_city_list">"No se ha encontrado nada"</string>
   <string name="navigation_search_positioning">Localizando…</string>
   <string name="navigation_search_positioning_failed">Seleccione una ciudad</string>
-  <string name="nearby_average_price">Promedio %d RMB</string>
+  <string name="nearby_average_price">Promedio %d EUR</string>
   <string name="nearby_no_yellow_page">No hay resultados cercanos</string>
   <string name="nearby_yellow_page_title">Cercanos</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
@@ -284,15 +284,15 @@
   <string name="quick_yellow_page_tab_call_log">Registro de llamadas</string>
   <string name="quick_yellow_page_tab_phones">Teléfono</string>
   <string name="recharge_actual_price">Precio:</string>
-  <string name="recharge_charge_range">Precio: RMB %1$s-%2$s</string>
-  <string name="recharge_charge_value">Precio: RMB %s</string>
+  <string name="recharge_charge_range">Precio: %1$s-%2$s EUR</string>
+  <string name="recharge_charge_value">Precio: %s EUR</string>
   <string name="recharge_history">Historial de recarga</string>
   <string name="recharge_history_empty">Vacío</string>
   <string name="recharge_input_phone_title">Ingrese número de teléfono (China Mobile, China Unicom, o China Telecom)</string>
   <string name="recharge_my_phone_number">Mi número</string>
-  <string name="recharge_order_actual_price">¥%s</string>
+  <string name="recharge_order_actual_price">%s €</string>
   <string name="recharge_order_id">ID de pedido:</string>
-  <string name="recharge_order_original_price">RMB %s</string>
+  <string name="recharge_order_original_price">%s EUR</string>
   <string name="recharge_order_pay">Comprobar</string>
   <string name="recharge_pay">Recargar ahora</string>
   <string name="recharge_pay_hint_license">Aviso de recarga</string>
@@ -300,7 +300,7 @@
   <string name="recharge_payment_result_failed_summary">Inténtelo de nuevo</string>
   <string name="recharge_payment_result_failed_title">Recarga fallida</string>
   <string name="recharge_payment_result_ok_summary">Confirme que esta cantidad se refleja en su saldo.</string>
-  <string name="recharge_payment_result_ok_title">Añadidos RMB %s</string>
+  <string name="recharge_payment_result_ok_title">Añadidos %s EUR</string>
   <string name="recharge_payment_result_progress_summary">Comprobando el resultado del pago…</string>
   <string name="recharge_phone">Numero a recargar:</string>
   <string name="recharge_phone_number_empty">"El campo número de teléfono no puede estar vacío"</string>
@@ -309,9 +309,9 @@
   <string name="recharge_status_description">Estado:</string>
   <string name="recharge_title">Recarga</string>
   <string name="recharge_unknown_number">Desconocido</string>
-  <string name="recharge_user_confirm_summary">"Se le cobrarán RMB %2$s por %1$s.  
+  <string name="recharge_user_confirm_summary">"Se le cobrarán %2$s EUR por %1$s.  
 
-Total: RMB %3$s "</string>
+Total: %3$s EUR"</string>
   <string name="recharge_user_confirm_title">Confirmar</string>
   <string name="refresh">Actualizar</string>
   <string name="remember_preference">Recordar preferencia</string>
@@ -353,7 +353,7 @@ Total: RMB %3$s "</string>
   <string name="user_agreement4">Política de privacidad</string>
   <string name="user_notice_identify_summary_format">"El teléfono utilizará la base de datos de MIUI para bloquear llamadas no deseadas cuando se conecta a la señal Wi-Fi. Tocando \"Aceptar\" aceptas %1$s y %2$s de Xiaomi."</string>
   <string name="user_notice_identify_summary_format_cta">"El teléfono utilizará la base de datos de MIUI para bloquear llamadas no deseadas cuando se conecta a la señal Wi-Fi. Tocando \"Aceptar\" aceptas %1$s y %2$s de Xiaomi."</string>
-  <string name="user_notice_title">Attention</string>
+  <string name="user_notice_title">Atención</string>
   <string name="user_notice_yp_detail_summary_format">"Alguna información de Páginas amarillas está anticuada. ¿Quieres actualizarla? Tocando \"Aceptar\" aceptas %1$s y %2$s de Xiaomi."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Alguna información de Páginas amarillas está anticuada. ¿Quieres actualizarla? Tocando \"Aceptar\" aceptas %1$s y %2$s de Xiaomi."</string>
   <string name="view_orders">Ver pedidos</string>
