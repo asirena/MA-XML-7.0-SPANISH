@@ -32,9 +32,9 @@ o introduzca la contraseña y/o patrón para el bloqueo de aplicaciones"</string
      <string name="activity_title_power_manager">Uso de batería</string>
      <string name="activity_title_risk">Riesgos</string>
      <string name="activity_title_risk_detail">Detalle del riesgo</string>
-     <string name="activity_title_root_acquired">Permitir el acceso a raíz</string>
-     <string name="activity_title_root_manager">Acceso a raíz</string>
-     <string name="activity_title_root_note">Permitir el acceso a raíz</string>
+     <string name="activity_title_root_acquired">Permitir el acceso como root</string>
+     <string name="activity_title_root_manager">Acceso root</string>
+     <string name="activity_title_root_note">Permitir el acceso como root</string>
      <string name="activity_title_settings">Ajustes</string>
      <string name="activity_title_system">Sistema</string>
      <string name="activity_title_trash">Caché</string>
